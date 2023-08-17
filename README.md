@@ -5,7 +5,7 @@
 - <b>Vulnerablity Management with Nessus </b>
   - [Praciting vulnerablity management(home lab)](https://github.com/seenuvasan-cybersecurity/Vulnerablity-Management-with-Nessus/blob/main/vulnerablity%20management%20with%20nessus.pdf)
 - <b>Investigating with splunk </b>
-  - [Praciting investigating with splunk in try hack me](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting investigating with splunk in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-with-splunk/commit/e568cddb06b085bead43ec8b79f193bf9a81c973)
 - <b>Practical investigation using sysmon </b>
   - [Praciting sysmon in try hack me](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Setting up Active directory in virtual box </b>
