@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Vulnerablity Management with Nessus </b>
-  - [Praciting vulnerablity management(home lab)]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/seenuvasan-cybersecurity/Vulnerablity-Management-with-Nessus/blob/main/vulnerablity%20management%20with%20nessus.pdf))
+  - [Praciting vulnerablity management(home lab)](https://github.com/seenuvasan-cybersecurity/Vulnerablity-Management-with-Nessus/blob/main/vulnerablity%20management%20with%20nessus.pdf)
 - <b>Investigating with splunk </b>
   - [Praciting investigating with splunk in try hack me](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Practical investigation using sysmon </b>
