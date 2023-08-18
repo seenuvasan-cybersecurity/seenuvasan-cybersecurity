@@ -8,10 +8,7 @@
   - [Praciting investigating with splunk in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-with-splunk/blob/main/Investigation%20with%20splunk.pdf)
 - <b>Practical investigation using sysmon </b>
   - [Praciting sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
-- <b>Setting up Active directory in virtual box </b>
-  - [Praciting Active directory(home lab)](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Vulnerablity Management with Nessus </b>
-  - [Praciting vulnerablity management](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 
