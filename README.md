@@ -9,6 +9,8 @@
 - <b>Practical investigation using sysmon </b>
   - [Praciting sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
 
+- <b>Web Application Penetration testing report </b>
+  - [Praciting sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/web-application-penetration-testing/blob/main/web%20application%20penetration%20testing%20report.pdf)
 
 
 
