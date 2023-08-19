@@ -3,14 +3,14 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Vulnerablity Management with Nessus </b>
-  - [Praciting vulnerablity management(home lab)](https://github.com/seenuvasan-cybersecurity/Vulnerablity-Management-with-Nessus/blob/main/vulnerablity%20management%20with%20nessus.pdf)
+  - [Vulnerablity management(home lab)](https://github.com/seenuvasan-cybersecurity/Vulnerablity-Management-with-Nessus/blob/main/vulnerablity%20management%20with%20nessus.pdf)
 - <b>Investigating with splunk </b>
-  - [Praciting investigating with splunk in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-with-splunk/blob/main/Investigation%20with%20splunk.pdf)
+  - [Investigating with splunk in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-with-splunk/blob/main/Investigation%20with%20splunk.pdf)
 - <b>Practical investigation using sysmon </b>
-  - [Praciting sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
+  - [Ivestigatin using sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
 
 - <b>Web Application Penetration testing report </b>
-  - [Praciting sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/web-application-penetration-testing/blob/main/web%20application%20penetration%20testing%20report.pdf)
+  - [Web Application pentration testing ](https://github.com/seenuvasan-cybersecurity/web-application-penetration-testing/blob/main/web%20application%20penetration%20testing%20report.pdf)
 
 
 
