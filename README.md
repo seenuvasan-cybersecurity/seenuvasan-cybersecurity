@@ -7,7 +7,7 @@
 - <b>Investigating with splunk </b>
   - [Investigating with splunk in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-with-splunk/blob/main/Investigation%20with%20splunk.pdf)
 - <b>Practical investigation using sysmon </b>
-  - [Ivestigatin using sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
+  - [Investigatin using sysmon in try hack me](https://github.com/seenuvasan-cybersecurity/investigation-using-sysmon/blob/main/Investigation%20using%20sysmon.pdf)
 
 - <b>Web Application Penetration testing report </b>
   - [Web Application pentration testing ](https://github.com/seenuvasan-cybersecurity/web-application-penetration-testing/blob/main/web%20application%20penetration%20testing%20report.pdf)
